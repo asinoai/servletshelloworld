@@ -60,7 +60,7 @@ public class ContextListener implements ServletContextListener,
     }
 
     public void attributeReplaced(HttpSessionBindingEvent sbe) {
-      /* This method is invoked when an attibute
+      /* This method is invoked when an attribute
          is replaced in a session.
       */
     }
